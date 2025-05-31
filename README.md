@@ -8,6 +8,6 @@ const usuario = { <br>
  &nbsp;&nbsp;&nbsp;&nbsp;<b>ferramentasDeDeploy:</b> ["Vercel"], <br>
  &nbsp;&nbsp;&nbsp;&nbsp;<b>especialidade:</b> "Fullstack" <br>
  &nbsp;&nbsp;&nbsp;&nbsp;<b>aprendendo(){</b> <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Testes Unitários(Jeste) && testes de Integração(SuperTest)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Testes Unitários(Jest) && testes de Integração(SuperTest)<br>
  &nbsp;&nbsp;&nbsp;&nbsp;}<br>
 }
