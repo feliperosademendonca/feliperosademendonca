@@ -1,4 +1,4 @@
-const usuario = { <br>
+const Usuario = { <br>
  &nbsp;&nbsp;&nbsp;&nbsp;<b>nome :</b> "Felipe Rosa", <br>
  &nbsp;&nbsp;&nbsp;&nbsp;<b>linguagem:</b> "JavaScript", <br>
  &nbsp;&nbsp;&nbsp;&nbsp;<b>experiencia:</b> "3 anos", <br>
